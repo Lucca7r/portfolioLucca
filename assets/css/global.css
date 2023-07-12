@@ -9,7 +9,8 @@
 }
 
 body {
-    background-color: #000;
+    background: rgb(158,34,195);
+    background: linear-gradient(0deg, rgba(158,10,195,1) 41%, rgba(45,120,253,1) 90%);
     color: #fff;
 }
 
@@ -29,29 +30,7 @@ a:hover {
     border-radius: 1rem;
 }
 
-.main::before,
-.main::after {
-    content: '';
-    background-image: url('../img/background.svg');
-    background-repeat: no-repeat;
-    background-size: contain;
-    display: inline-block;
-    position: fixed;
-    top: 0;
-    left: 0;
-    width: 140vw;
-    height: 100vh;
-    z-index: -1;
-}
 
-.main::after {
-    content: '';
-    top: auto;
-    left: auto;
-    bottom: 0;
-    right: 0;
-    transform: rotate(180deg);
-}
 
 
 @media only screen and (min-width: 768px) {
