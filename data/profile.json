@@ -1,7 +1,7 @@
 {
   "name": "Lucas R Silva",
   "photo": "https://avatars.githubusercontent.com/u/114083832?v=4",
-  "job": "Analista de dados - VIVO",
+  "job": "Analista de dados JR - VIVO",
   "location": "Brasilía - DF",
   "phone": "(61) 99699-4992",
   "email": "lucca01silva@gmail.com",
@@ -43,7 +43,7 @@
       "github": true
     },
     {
-      "name": "Ele conta com um chat geral, uma conexão websocket, um jogo da memória, um player de música, um processamento de imagem para escala de cinza, utilizando o servidor Node para servir a imagem processada para o usuário, e uma calculadora.",
+      "name": "Ele conta com um chat geral, uma conexão websocket.",
       "url": "https://chat-wss-kutn.onrender.com/frontend/screen/Home/home-pag.html",
       "github": true
     },
@@ -55,7 +55,7 @@
   ],
   "professionalExperience": [
     {
-      "name": "Analista de dados - VIVO",
+      "name": "Analista de dados JR - VIVO",
       "period": "2024 - atual",
       "description": "Time de qualidade, atuando com analise de dados e desenvolvimento de soluções para melhoria de processos"
     },

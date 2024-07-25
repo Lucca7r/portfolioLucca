@@ -27,6 +27,7 @@
 .header .title {
     font-family: 'Neue Machina';
     text-align: center;
+    color: #fff;
 }
 
 .information {
@@ -42,6 +43,7 @@
     align-items: center;
     margin: .5rem;
     font-size: 1.125rem;
+    color: #fff;
 }
 
 .information p::before {

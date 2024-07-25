@@ -1,6 +1,8 @@
 * {
     box-sizing: border-box;
-    font-family: 'Open Sans', sans-serif;
+    font-family: 'Open Sans', 
+    sans-serif;
+    color: #fff;
 }
 
 @font-face {
@@ -9,9 +11,11 @@
 }
 
 body {
-    background: rgb(158,34,195);
-    background: linear-gradient(0deg, rgba(158,10,195,1) 41%, rgba(45,120,253,1) 90%);
-    color: #fff;
+    background-image: url('../img/fundouns.jpg');
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-attachment: fixed;
+
 }
 
 a {
