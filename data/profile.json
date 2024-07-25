@@ -1,7 +1,7 @@
 {
   "name": "Lucas R Silva",
   "photo": "https://avatars.githubusercontent.com/u/114083832?v=4",
-  "job": "Estagiário - VIVO",
+  "job": "Analista de dados - VIVO",
   "location": "Brasilía - DF",
   "phone": "(61) 99699-4992",
   "email": "lucca01silva@gmail.com",
@@ -43,31 +43,36 @@
       "github": true
     },
     {
-      "name": "Projeto para organizar a rotina com atividade que gosto",
-      "url": "https://github.com/Lucca7r/routine-setup",
+      "name": "Ele conta com um chat geral, uma conexão websocket, um jogo da memória, um player de música, um processamento de imagem para escala de cinza, utilizando o servidor Node para servir a imagem processada para o usuário, e uma calculadora.",
+      "url": "https://chat-wss-kutn.onrender.com/frontend/screen/Home/home-pag.html",
       "github": true
     },
     {
-      "name": "Projeto para a faculdade - Gerenciador de tarefas",
-      "url": "https://github.com/Lucca7r/trabalho-faculdade-b1",
+      "name": "aplicativo de gerenciamento de tarefas desenvolvido em Java, utilizando a interface gráfica Swing e JOptionPane.",
+      "url": "https://github.com/Lucca7r/ToDoListUni",
       "github": true
     }
   ],
   "professionalExperience": [
     {
+      "name": "Analista de dados - VIVO",
+      "period": "2024 - atual",
+      "description": "Time de qualidade, atuando com analise de dados e desenvolvimento de soluções para melhoria de processos"
+    },
+    {
       "name": "Estagiario - VIVO",
-      "period": "2023 - até o momento",
-      "description": " "
+      "period": "2023 - 2024",
+      "description": "Time de Segucança e acessos logicos"
     },
     {
       "name": "Trainee - 7Sigth",
       "period": "2022 - 2023",
-      "description": " "
+      "description": "Time de desing de software"
     },
     {
       "name": "Atendente - DROGASIL",
       "period": "2021 - 2023",
-      "description": " "
+      "description": "Atendimento ao cliente e vendas"
     }
   ]
 }
